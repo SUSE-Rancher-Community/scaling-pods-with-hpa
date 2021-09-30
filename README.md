@@ -3,7 +3,7 @@ This repository contains source code configure an application to scale horizonta
 
 ## Prerequisites
 * [kubectl CLI tool]()
-* A Kubernetes cluster - you can provision a k8s cluster quickly with [K3s](), [K3d]() or [RKE](). 
+* A Kubernetes cluster - you can provision a k8s cluster quickly with [K3s](https://k3s.io/), [K3d](https://k3d.io/) or [RKE](https://community.suse.com/posts/setting-up-rancher-on-your-local-machine-with-an-rke-provisioned-cluster). 
 
 ## Install Metrics Server
 The HPA will need to receive metrics in order to make decisions about when scaling should occur. You will need to install the metrics server on your K8s cluster with this command:
