@@ -2,7 +2,7 @@
 This repository contains source code configure an application to scale horizontally (using the HPA), as well as how to test the scalability of the application. 
 
 ## Prerequisites
-* [kubectl CLI tool]()
+* [kubectl CLI tool](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
 * A Kubernetes cluster - you can provision a k8s cluster quickly with [K3s](https://k3s.io/), [K3d](https://k3d.io/) or [RKE](https://community.suse.com/posts/setting-up-rancher-on-your-local-machine-with-an-rke-provisioned-cluster). 
 
 ## Install Metrics Server
