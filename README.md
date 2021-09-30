@@ -1,5 +1,5 @@
 # Scaling Pods with HPA
-This repository contains source code to test scaling an application using the Horizontal Pod Autoscaler. 
+This repository contains source code configure an application to scale horizontally (using the HPA), as well as how to test the scalability of the application. 
 
 ## Prerequisites
 * [kubectl CLI tool]()
